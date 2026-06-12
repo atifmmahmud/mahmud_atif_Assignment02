@@ -1,5 +1,7 @@
 # IAT 461 / 882 — Assignment 2: Modeling Phigma User Behavior
-Deadline: June 1st - 23:55## Overview
+Deadline: June 1st - 23:55
+
+## Overview
 
 In this assignment you take on the role of a data scientist at **Phigma** — a design SaaS platform with a freemium whiteboarding tool. You have access to data from two separate research campaigns run by the Phigma product team.
 
